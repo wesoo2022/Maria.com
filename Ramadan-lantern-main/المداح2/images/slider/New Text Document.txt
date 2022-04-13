@@ -716,7 +716,7 @@
                         <a href=""> الكبير اوي 6 </a>
                       </h6>
                       <div class="movie-time d-flex align-items-center my-2">
-                        <div class="badge badge-secondary p-1 mr-2">1+</div>
+                        <!-- <div class="badge badge-secondary p-1 mr-2">1+</div> -->
                         <!-- <span class="text-white">2h 34min</span> -->
                       </div>
                       <div class="hover-buttons">
@@ -760,7 +760,7 @@
                         <a href="#"> رأمز موفي ستار </a>
                       </h6>
                       <div class="movie-time d-flex align-items-center my-2">
-                        <div class="badge badge-secondary p-1 mr-2">1+</div>
+                        <!-- <div class="badge badge-secondary p-1 mr-2">1+</div> -->
                         <span class="text-white">32min</span>
                       </div>
                       <div class="hover-buttons" style="margin-top: 60px;">
