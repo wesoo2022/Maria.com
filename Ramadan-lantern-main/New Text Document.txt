@@ -763,7 +763,7 @@
                         الكبير اوي 6
                       </h6>
                       <div class="movie-time d-flex align-items-center my-2">
-                        <!-- <div class="badge badge-secondary p-1 mr-2">1+</div> -->
+                        <!--  -->
                         <!-- <span class="text-white">2h 34min</span> -->
                       </div>
                       <div class="hover-buttons">
@@ -813,7 +813,7 @@
                         <a href="https://vod540.xyz/embed-3sjkc36cc8eu.html" target="_blank"> رأمز موفي ستار </a>
                       </h6>
                       <div class="movie-time d-flex align-items-center my-2">
-                        <!-- <div class="badge badge-secondary p-1 mr-2">1+</div> -->
+                        <!--  -->
                         <span class="text-white">32min</span>
                       </div>
                       <div class="hover-buttons" style="margin-top: 60px;">
@@ -863,7 +863,7 @@
                         <a href="" target="_blank"> الأختيار 3 </a>
                       </h6>
                       <div class="movie-time d-flex align-items-center my-2">
-                        <!-- <div class="badge badge-secondary p-1 mr-2">1+</div> -->
+                        <!--  -->
                         <span class="text-white">2h 23min</span>
                       </div>
                       <div class="hover-buttons">
@@ -913,7 +913,7 @@
                         <a href="" targ="_blank"> توبه-Toba </a>
                       </h6>
                       <div class="movie-time d-flex align-items-center my-2">
-                        <!-- <div class="badge badge-secondary p-1 mr-2">1+</div> -->
+                        <!--  -->
                         <span class="text-white"> 35min</span>
                       </div>
                       <div class="hover-buttons">
@@ -966,7 +966,7 @@
         <div class="row">
           <div class="col-sm-12 overflow-hidden">
             <div class="iq-main-header d-flex align-items-center justify-content-between">
-              <h4 class="main-title">باقي المسلسلات </h4>
+              <h4 class="main-title"> الي حلقة اليوم </h4>
               <a href="#" class="iq-view-all">الحلقه الاولي </a>
             </div>
             <div class="favorite-contens">
@@ -982,7 +982,7 @@
                         <a href="#"> العائدون </a>
                       </h6>
                       <div class="movie-time d-flex align-items-center my-2">
-                        <!-- <div class="badge badge-secondary p-1 mr-2">1+</div> -->
+                        <!--  -->
                         <span class="text-white">40min</span>
                       </div>
                       <div class="hover-buttons">
